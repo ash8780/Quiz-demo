@@ -1,2 +1,80 @@
 # Quiz-demo
 This is my first git repository
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>card profile</title>
+    <link rel="stylesheet" href="card.css">
+</head>
+<body>
+    <section class="developrs">
+        <div class="cards">
+            <div class="card">
+            <div class="img-box">
+                <img src="Snapchat-131527041.jpg"alt="">
+                
+            </div>
+            <h2 class="name">ABHISHEK KUMAR</h2>
+            <p class="title"> QA & Testing</p>
+
+            </div>
+        
+        
+                <div class="card">
+
+                 <div class="img-box">
+                <img src="Snapchat-131527041.jpg"alt="">
+                
+            </div>
+            <h2 class="name">ADITYA KUMAR</h2>
+            <p class="title">UI/UX Designer</p>
+
+            </div>
+            <div class="card">
+                <div class="img-box">
+                <img src="ashu_image.jpeg"alt="">
+            </div>
+            <h2 class="name">ASHUTOSH KUMAR</h2>
+            <p class="title">Frontend Dev</p>
+
+            </div>
+            <div class="card">
+                <div class="img-box">
+                <img src="Snapchat-131527041.jpg"alt="">
+            </div>
+            <h2 class="name">NEHA KUMARI</h2>
+            <p class="title">Frontend Dev</p>
+
+            </div>
+            <div class="card">
+                <div class="img-box">
+                <img src="Snapchat-131527041.jpg"alt="">
+            </div>
+            <h2 class="name"> KASHIF QUAMAR</h2>
+            <p class="title">Database Admin</p>
+            </div>
+
+        </div>
+    </section>
+    <div class="social media">
+                <a href="#" class="social icon">
+                    <i class="fab fa-facebook-f"></i>
+                </a>
+                <a href="#" class="social icon">
+                    <i class="fab fa-instagram"></i>
+                </a>
+                <a href="#" class="social icon">
+                    <i class="fab linkedin-in"></i>
+                </a>
+                <a href="#" class="social icon">
+                    <i class="fab fa-github"></i>
+                </a>
+            </div>
+    
+
+        
+    
+</body>
+</html>
